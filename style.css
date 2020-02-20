@@ -1,0 +1,53 @@
+.main{
+    position: relative;
+    display: inline-block;
+    height: 200px;
+    width: 300px;
+    top: 200px;
+    left: 500px;
+    
+    
+
+   
+}
+body{
+    background-image:url(/home/praveenganesh/Downloads/ryan-stone-U3cctUBucn0-unsplash.jpg);
+    height: 0vh;
+   background-size: cover;
+   background-position: center;
+
+}
+#f_user{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    font-size: 15px;
+}
+#f_pass{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    font-size: 15px;
+}
+#button{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    font-size: 15px;
+    
+} 
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serifs;
+    
+}
+p{
+    color: black;
+    display: inline-block;
+    border: 2px solid black;
+    padding: 1px;
+    
+}
